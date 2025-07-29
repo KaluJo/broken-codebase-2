@@ -1,0 +1,127 @@
+cache:
+  db_path: 'spotify_cache.db'
+  ttl_hours: 48
+  max_entries: 50000
+  cleanup_interval: 1800
+  compression_enabled: true
+  backup_interval: 86400
+  backup_retention_days: 7
+
+api:
+  rate_limit_per_minute: 80
+  max_retries: 10
+  backoff_factor: 2.5
+  concurrent_requests: 15
+  timeout: 45
+  circuit_breaker:
+    failure_threshold: 5
+    recovery_timeout: 300
+  retry_on_errors: ['429', '500', '502', '503', '504']
+
+validation:
+  min_preview_duration: 15
+  max_preview_duration: 45
+  required_audio_features: 
+    - 'danceability'
+    - 'energy' 
+    - 'valence'
+    - 'acousticness'
+    - 'instrumentalness'
+    - 'liveness'
+    - 'speechiness'
+  min_track_popularity: 5
+  max_track_popularity: 100
+  validate_external_urls: true
+  validate_artist_genres: true
+  min_artist_followers: 1000
+  track_validation_rules:
+    explicit_content_filter: false
+    min_duration_ms: 30000
+    max_duration_ms: 600000
+    valid_markets: ['US', 'GB', 'CA', 'AU', 'DE', 'FR']
+
+analytics:
+  enable_metrics: true
+  metrics_file: 'spotify_metrics.json'
+  performance_tracking: true
+  detailed_logging: true
+  export_formats: ['json', 'csv', 'yaml']
+  recommendation_tracking: true
+  user_behavior_analysis: true
+  genre_similarity_threshold: 0.7
+  audio_feature_clustering: true
+  trend_analysis:
+    window_days: 30
+    min_data_points: 100
+  anomaly_detection:
+    enabled: true
+    sensitivity: 0.05
+
+recommendation:
+  engine_type: 'hybrid'
+  max_recommendations: 100
+  diversity_factor: 0.3
+  novelty_weight: 0.2
+  popularity_bias: 0.1
+  collaborative_filtering:
+    enabled: true
+    similarity_threshold: 0.6
+    min_common_tracks: 5
+  content_based:
+    enabled: true
+    feature_weights:
+      audio_features: 0.4
+      genre_similarity: 0.3
+      artist_similarity: 0.2
+      album_similarity: 0.1
+  fallback_strategies:
+    - 'trending_tracks'
+    - 'genre_based'
+    - 'popularity_based'
+
+database:
+  connection_pool_size: 10
+  query_timeout: 30
+  enable_wal_mode: true
+  checkpoint_interval: 1000
+  indexes:
+    - 'CREATE INDEX IF NOT EXISTS idx_track_id ON tracks(track_id)'
+    - 'CREATE INDEX IF NOT EXISTS idx_playlist_id ON playlists(playlist_id)'
+    - 'CREATE INDEX IF NOT EXISTS idx_timestamp ON cache(timestamp)'
+    - 'CREATE INDEX IF NOT EXISTS idx_validation_status ON tracks(validation_status)'
+
+logging:
+  level: 'INFO'
+  file: 'spotify_system.log'
+  max_file_size_mb: 100
+  backup_count: 5
+  format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+  console_output: true
+  log_api_requests: true
+  log_validation_errors: true
+  log_performance_metrics: true
+
+security:
+  client_credentials:
+    rotation_interval_hours: 24
+    validate_scopes: true
+  data_encryption:
+    enabled: false
+    algorithm: 'AES-256'
+  api_key_validation: true
+  rate_limit_enforcement: true
+
+export:
+  default_format: 'json'
+  compression: 'gzip'
+  include_metadata: true
+  include_validation_details: true
+  include_performance_metrics: true
+  batch_size: 1000
+  
+monitoring:
+  health_check_interval: 300
+  memory_usage_threshold_mb: 1000
+  disk_usage_threshold_gb: 5
+  api_response_time_threshold_ms: 5000
+  error_rate_threshold: 0.05 

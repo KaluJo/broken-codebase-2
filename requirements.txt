@@ -1,0 +1,28 @@
+# Core Spotify API
+spotipy==2.22.1
+
+# Essential data processing
+numpy==1.24.3
+pandas==2.0.2
+
+# Configuration and validation
+PyYAML==6.0
+validators==0.20.0
+requests==2.31.0
+
+# Database
+sqlalchemy==2.0.15
+
+# Async operations
+aiohttp==3.8.4
+aiofiles==23.1.0
+
+# Data serialization
+marshmallow==3.19.0
+
+# Testing framework
+pytest==7.3.1
+pytest-asyncio==0.21.0
+
+# Development tools
+pydantic==1.10.8 

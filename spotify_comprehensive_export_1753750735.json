@@ -1,0 +1,2080 @@
+{
+  "playlists": [
+    {
+      "id": "4X3GSB0TDlXdhY3BCvHZyu",
+      "cover_image": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da849027fe2b8d4f74fb595cd583",
+      "name": "marinara",
+      "description": "nov - so sun was night and moon was day",
+      "owner": "Bhada Yun",
+      "followers": 0,
+      "tracks": [
+        {
+          "id": "2B664ulJSVBd6B8SAY3Wux",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b27343e43cc5bad5dcb157ee3609",
+          "song_title": "Oysters In My Pocket",
+          "artist": "Royel Otis",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+              },
+              "href": "https://api.spotify.com/v1/artists/5b5bt4mZQpJMoCRbiQ7diH",
+              "id": "5b5bt4mZQpJMoCRbiQ7diH",
+              "name": "Royel Otis",
+              "type": "artist",
+              "uri": "spotify:artist:5b5bt4mZQpJMoCRbiQ7diH"
+            }
+          ],
+          "album": "Oysters In My Pocket",
+          "album_id": "2tQ8dsmr0EpIJ5FFyUMQES",
+          "popularity": 78,
+          "explicit": false,
+          "duration_ms": 162338,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "0xGQTpN4ESETtl1Sp6rzd2",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b2730f7761c6df5822925daf3738",
+          "song_title": "São Paulo (feat. Anitta)",
+          "artist": "The Weeknd, Anitta",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+              },
+              "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+              "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+              "name": "The Weeknd",
+              "type": "artist",
+              "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+              },
+              "href": "https://api.spotify.com/v1/artists/7FNnA9vBm6EKceENgCGRMb",
+              "id": "7FNnA9vBm6EKceENgCGRMb",
+              "name": "Anitta",
+              "type": "artist",
+              "uri": "spotify:artist:7FNnA9vBm6EKceENgCGRMb"
+            }
+          ],
+          "album": "São Paulo",
+          "album_id": "44MHvpU3h9Wp6SxhsC9GOK",
+          "popularity": 37,
+          "explicit": true,
+          "duration_ms": 301623,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "3n69hLUdIsSa1WlRmjMZlW",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273609c89ad17eb28c2013c56c6",
+          "song_title": "Breezeblocks",
+          "artist": "alt-J",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+              },
+              "href": "https://api.spotify.com/v1/artists/3XHO7cRUPCLOr6jwp8vsx5",
+              "id": "3XHO7cRUPCLOr6jwp8vsx5",
+              "name": "alt-J",
+              "type": "artist",
+              "uri": "spotify:artist:3XHO7cRUPCLOr6jwp8vsx5"
+            }
+          ],
+          "album": "An Awesome Wave",
+          "album_id": "6k3vC8nep1BfqAIJ81L6OL",
+          "popularity": 72,
+          "explicit": false,
+          "duration_ms": 227080,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "3qeFjtPJ1lIRKDTB5DZWpt",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273e5db09ae4a2813a1b2b342a5",
+          "song_title": "did i tell u that i miss u",
+          "artist": "adore",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
+              },
+              "href": "https://api.spotify.com/v1/artists/7ofG5BaSiQp8WeL4YCYDhF",
+              "id": "7ofG5BaSiQp8WeL4YCYDhF",
+              "name": "adore",
+              "type": "artist",
+              "uri": "spotify:artist:7ofG5BaSiQp8WeL4YCYDhF"
+            }
+          ],
+          "album": "did i tell u that i miss u",
+          "album_id": "5mw5lqpHiII2dtNFjWfKTd",
+          "popularity": 76,
+          "explicit": false,
+          "duration_ms": 115921,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3qeFjtPJ1lIRKDTB5DZWpt"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "3MF3Zj7bYl1PdARlzqfwYC",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b27324ca23e6c638e0b898d22883",
+          "song_title": "dancing while the world burns",
+          "artist": "adore",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF"
+              },
+              "href": "https://api.spotify.com/v1/artists/7ofG5BaSiQp8WeL4YCYDhF",
+              "id": "7ofG5BaSiQp8WeL4YCYDhF",
+              "name": "adore",
+              "type": "artist",
+              "uri": "spotify:artist:7ofG5BaSiQp8WeL4YCYDhF"
+            }
+          ],
+          "album": "dancing while the world burns",
+          "album_id": "7zxfV31grTIsLAHJwYBL4w",
+          "popularity": 60,
+          "explicit": false,
+          "duration_ms": 152004,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3MF3Zj7bYl1PdARlzqfwYC"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "1d6KS9GH06JAd19uiBy9IE",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273242e643ea07118ecf677a6ef",
+          "song_title": "Ironic - 2015 Remaster",
+          "artist": "Alanis Morissette",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+              },
+              "href": "https://api.spotify.com/v1/artists/6ogn9necmbUdCppmNnGOdi",
+              "id": "6ogn9necmbUdCppmNnGOdi",
+              "name": "Alanis Morissette",
+              "type": "artist",
+              "uri": "spotify:artist:6ogn9necmbUdCppmNnGOdi"
+            }
+          ],
+          "album": "Jagged Little Pill (2015 Remaster)",
+          "album_id": "5Ap3F8CxjjsQKZGASDcHNA",
+          "popularity": 77,
+          "explicit": false,
+          "duration_ms": 230000,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "73JHeIhYKRV1c6RI4ZXsjW",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b2731a3804c279594ebceecec4a2",
+          "song_title": "MAXIMUM RIZZ",
+          "artist": "Ski Aggu",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+              },
+              "href": "https://api.spotify.com/v1/artists/6CP5wWvO8oIxedESJNCN4H",
+              "id": "6CP5wWvO8oIxedESJNCN4H",
+              "name": "Ski Aggu",
+              "type": "artist",
+              "uri": "spotify:artist:6CP5wWvO8oIxedESJNCN4H"
+            }
+          ],
+          "album": "denk mal drüber nach...",
+          "album_id": "2amQje8nzCnpbbjYpTJizx",
+          "popularity": 61,
+          "explicit": true,
+          "duration_ms": 147960,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "4ogNDyqRuHvv3qADGiCazn",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b27342678f54dfd1d5afb3eea19a",
+          "song_title": "Should I Laugh Or Cry - Intro Version",
+          "artist": "ABBA",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+              "id": "0LcJLqbBmaGUft1e9Mm8HV",
+              "name": "ABBA",
+              "type": "artist",
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+            }
+          ],
+          "album": "The Visitors (Deluxe Edition)",
+          "album_id": "5GByGaws7Cw0t28kjvAOzV",
+          "popularity": 36,
+          "explicit": false,
+          "duration_ms": 272333,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4ogNDyqRuHvv3qADGiCazn"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "7pv80uUHfocFqfTytu1MVi",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b2730d934cb462fae5a26f829efb",
+          "song_title": "Didn't Cha Know",
+          "artist": "Erykah Badu",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+              },
+              "href": "https://api.spotify.com/v1/artists/7IfculRW2WXyzNQ8djX8WX",
+              "id": "7IfculRW2WXyzNQ8djX8WX",
+              "name": "Erykah Badu",
+              "type": "artist",
+              "uri": "spotify:artist:7IfculRW2WXyzNQ8djX8WX"
+            }
+          ],
+          "album": "Mama's Gun",
+          "album_id": "3cADvHRdKniF9ELCn1zbGH",
+          "popularity": 74,
+          "explicit": false,
+          "duration_ms": 238733,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "4VaICpePVA67Wqvv8SryFr",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b27317877aef7b711a091eb2f366",
+          "song_title": "Road Of The Lonely Ones",
+          "artist": "Madlib",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+              },
+              "href": "https://api.spotify.com/v1/artists/5LhTec3c7dcqBvpLRWbMcf",
+              "id": "5LhTec3c7dcqBvpLRWbMcf",
+              "name": "Madlib",
+              "type": "artist",
+              "uri": "spotify:artist:5LhTec3c7dcqBvpLRWbMcf"
+            }
+          ],
+          "album": "Road Of The Lonely Ones",
+          "album_id": "28MiwOX8Od693aOkUnEgsf",
+          "popularity": 43,
+          "explicit": false,
+          "duration_ms": 218466,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "6lrDckuosGpwEHtm1hHBcf",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf",
+          "song_title": "November Has Come",
+          "artist": "Gorillaz, MF DOOM",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+              "id": "3AA28KZvwAUcZuOKwyblJQ",
+              "name": "Gorillaz",
+              "type": "artist",
+              "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+              },
+              "href": "https://api.spotify.com/v1/artists/2pAWfrd7WFF3XhVt9GooDL",
+              "id": "2pAWfrd7WFF3XhVt9GooDL",
+              "name": "MF DOOM",
+              "type": "artist",
+              "uri": "spotify:artist:2pAWfrd7WFF3XhVt9GooDL"
+            }
+          ],
+          "album": "Demon Days",
+          "album_id": "0bUTHlWbkSQysoM3VsWldT",
+          "popularity": 69,
+          "explicit": false,
+          "duration_ms": 165093,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6lrDckuosGpwEHtm1hHBcf"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "2aRjdfibMVQyl5iw9epBGt",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273dc4b62caeaac9e0378cc1b9e",
+          "song_title": "bleach",
+          "artist": "Vandalism",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0a5IWX9GElOmd65lKSzBe0"
+              },
+              "href": "https://api.spotify.com/v1/artists/0a5IWX9GElOmd65lKSzBe0",
+              "id": "0a5IWX9GElOmd65lKSzBe0",
+              "name": "Vandalism",
+              "type": "artist",
+              "uri": "spotify:artist:0a5IWX9GElOmd65lKSzBe0"
+            }
+          ],
+          "album": "bleach",
+          "album_id": "7y6UhMVQmJhsmug2tUnmHf",
+          "popularity": 60,
+          "explicit": false,
+          "duration_ms": 120000,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2aRjdfibMVQyl5iw9epBGt"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "4O9t8Qq941SAzdGlex4noA",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b2732b9aca3204e667980ce6a939",
+          "song_title": "What You Need (feat. Charlotte Day Wilson)",
+          "artist": "KAYTRANADA, Charlotte Day Wilson",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+              },
+              "href": "https://api.spotify.com/v1/artists/6qgnBH6iDM91ipVXv28OMu",
+              "id": "6qgnBH6iDM91ipVXv28OMu",
+              "name": "KAYTRANADA",
+              "type": "artist",
+              "uri": "spotify:artist:6qgnBH6iDM91ipVXv28OMu"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+              },
+              "href": "https://api.spotify.com/v1/artists/3GQboECxDT1xqPPWC30p7v",
+              "id": "3GQboECxDT1xqPPWC30p7v",
+              "name": "Charlotte Day Wilson",
+              "type": "artist",
+              "uri": "spotify:artist:3GQboECxDT1xqPPWC30p7v"
+            }
+          ],
+          "album": "BUBBA",
+          "album_id": "5FQ4sOGqRWUA5wO20AwPcO",
+          "popularity": 68,
+          "explicit": false,
+          "duration_ms": 183786,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "7bW6MqAdTclmHVHAOkIyPS",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b2737124b6bf785117033d003590",
+          "song_title": "The Fear",
+          "artist": "Lily Allen",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+              },
+              "href": "https://api.spotify.com/v1/artists/13saZpZnCDWOI9D4IJhp1f",
+              "id": "13saZpZnCDWOI9D4IJhp1f",
+              "name": "Lily Allen",
+              "type": "artist",
+              "uri": "spotify:artist:13saZpZnCDWOI9D4IJhp1f"
+            }
+          ],
+          "album": "It's Not Me, It's You",
+          "album_id": "39zjAZD6nlscx5DafH8GI8",
+          "popularity": 49,
+          "explicit": true,
+          "duration_ms": 207120,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7bW6MqAdTclmHVHAOkIyPS"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "46wojTgyEs6lbgaWB6yIuz",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b2739d37f979163154904099eece",
+          "song_title": "Knock Knock",
+          "artist": "Mac Miller",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+              },
+              "href": "https://api.spotify.com/v1/artists/4LLpKhyESsyAXpc4laK94U",
+              "id": "4LLpKhyESsyAXpc4laK94U",
+              "name": "Mac Miller",
+              "type": "artist",
+              "uri": "spotify:artist:4LLpKhyESsyAXpc4laK94U"
+            }
+          ],
+          "album": "K.I.D.S.",
+          "album_id": "1jzqEyjugAp9iLtRsj9LZg",
+          "popularity": 71,
+          "explicit": true,
+          "duration_ms": 197929,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/46wojTgyEs6lbgaWB6yIuz"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "2v0M1pCugLIImmFGZNkydS",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273bb3e501c722092adc923cff8",
+          "song_title": "AMAMA",
+          "artist": "Crumb",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+              },
+              "href": "https://api.spotify.com/v1/artists/4kSGbjWGxTchKpIxXPJv0B",
+              "id": "4kSGbjWGxTchKpIxXPJv0B",
+              "name": "Crumb",
+              "type": "artist",
+              "uri": "spotify:artist:4kSGbjWGxTchKpIxXPJv0B"
+            }
+          ],
+          "album": "AMAMA",
+          "album_id": "6V4aP2jvCLc1McVX6HPmdo",
+          "popularity": 48,
+          "explicit": false,
+          "duration_ms": 190413,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2v0M1pCugLIImmFGZNkydS"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "6TeJroHNM4rXP4GluTvKXV",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273038b1c2017f14c805cf5b7e9",
+          "song_title": "Candy",
+          "artist": "Mk.gee",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+              },
+              "href": "https://api.spotify.com/v1/artists/7tr9pbgNEKtG0GQTKe08Tz",
+              "id": "7tr9pbgNEKtG0GQTKe08Tz",
+              "name": "Mk.gee",
+              "type": "artist",
+              "uri": "spotify:artist:7tr9pbgNEKtG0GQTKe08Tz"
+            }
+          ],
+          "album": "Two Star & The Dream Police",
+          "album_id": "6DlLdXBGCsSDPOV8R2pCl7",
+          "popularity": 60,
+          "explicit": true,
+          "duration_ms": 174824,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6TeJroHNM4rXP4GluTvKXV"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "3jlacMjHZ9VGCOmz5CjHE0",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b2739a5907030364ce17c50fe5d3",
+          "song_title": "Homie Don’t Shake",
+          "artist": "Fcukers",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+              },
+              "href": "https://api.spotify.com/v1/artists/3UtzOHYm3lQALkKzVD4wyO",
+              "id": "3UtzOHYm3lQALkKzVD4wyO",
+              "name": "Fcukers",
+              "type": "artist",
+              "uri": "spotify:artist:3UtzOHYm3lQALkKzVD4wyO"
+            }
+          ],
+          "album": "Homie Don’t Shake",
+          "album_id": "137AbUv6B2FQth3LqCOS7w",
+          "popularity": 54,
+          "explicit": true,
+          "duration_ms": 176213,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3jlacMjHZ9VGCOmz5CjHE0"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "6Z4oCaL8tQBGQRUJRh2Gua",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b27389980411dd331af1f0e3347a",
+          "song_title": "Earth",
+          "artist": "K-391",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+              },
+              "href": "https://api.spotify.com/v1/artists/6pWcSL9wSJZQ9ne0TnhdWr",
+              "id": "6pWcSL9wSJZQ9ne0TnhdWr",
+              "name": "K-391",
+              "type": "artist",
+              "uri": "spotify:artist:6pWcSL9wSJZQ9ne0TnhdWr"
+            }
+          ],
+          "album": "Earth",
+          "album_id": "5aoD4bt8Akw84D2pyi3Mge",
+          "popularity": 55,
+          "explicit": false,
+          "duration_ms": 233325,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6Z4oCaL8tQBGQRUJRh2Gua"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "0lks2Kt9veMOFEAPN0fsqN",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a",
+          "song_title": "Lily",
+          "artist": "Alan Walker, K-391, Emelie Hollow",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+              },
+              "href": "https://api.spotify.com/v1/artists/7vk5e3vY1uw9plTHJAMwjN",
+              "id": "7vk5e3vY1uw9plTHJAMwjN",
+              "name": "Alan Walker",
+              "type": "artist",
+              "uri": "spotify:artist:7vk5e3vY1uw9plTHJAMwjN"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+              },
+              "href": "https://api.spotify.com/v1/artists/6pWcSL9wSJZQ9ne0TnhdWr",
+              "id": "6pWcSL9wSJZQ9ne0TnhdWr",
+              "name": "K-391",
+              "type": "artist",
+              "uri": "spotify:artist:6pWcSL9wSJZQ9ne0TnhdWr"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+              },
+              "href": "https://api.spotify.com/v1/artists/61pvU6ZLOF3bl0IOtbmME7",
+              "id": "61pvU6ZLOF3bl0IOtbmME7",
+              "name": "Emelie Hollow",
+              "type": "artist",
+              "uri": "spotify:artist:61pvU6ZLOF3bl0IOtbmME7"
+            }
+          ],
+          "album": "Different World",
+          "album_id": "3nzuGtN3nXARvvecier4K0",
+          "popularity": 75,
+          "explicit": false,
+          "duration_ms": 195840,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0lks2Kt9veMOFEAPN0fsqN"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "2b7zdV4i5vEaRlZAkiIAR5",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b27352a17efb55a62f0a7e7f7713",
+          "song_title": "Falling Apart",
+          "artist": "Slow Pulp",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+              },
+              "href": "https://api.spotify.com/v1/artists/2JFTRDi5v7JtqoouVe1z5D",
+              "id": "2JFTRDi5v7JtqoouVe1z5D",
+              "name": "Slow Pulp",
+              "type": "artist",
+              "uri": "spotify:artist:2JFTRDi5v7JtqoouVe1z5D"
+            }
+          ],
+          "album": "Moveys",
+          "album_id": "5C66ZV77hQsUlhSIYJYcar",
+          "popularity": 66,
+          "explicit": false,
+          "duration_ms": 166033,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2b7zdV4i5vEaRlZAkiIAR5"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "3jKlmTVS7ym2axSs9OEcrT",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273b4d70e6bb27ca678e541c224",
+          "song_title": "Daddy",
+          "artist": "Nourished by Time",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+              },
+              "href": "https://api.spotify.com/v1/artists/7zNkqI6qRr0OJ4XO1Pw29g",
+              "id": "7zNkqI6qRr0OJ4XO1Pw29g",
+              "name": "Nourished by Time",
+              "type": "artist",
+              "uri": "spotify:artist:7zNkqI6qRr0OJ4XO1Pw29g"
+            }
+          ],
+          "album": "Erotic Probiotic 2",
+          "album_id": "6HPNCXxhRfj8tus7gw0dDI",
+          "popularity": 48,
+          "explicit": false,
+          "duration_ms": 246626,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "38piSUlzLXLqHqgrxSO4zE",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b27369867e02bee126b3488ad537",
+          "song_title": "Tommy",
+          "artist": "Fcukers",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+              },
+              "href": "https://api.spotify.com/v1/artists/3UtzOHYm3lQALkKzVD4wyO",
+              "id": "3UtzOHYm3lQALkKzVD4wyO",
+              "name": "Fcukers",
+              "type": "artist",
+              "uri": "spotify:artist:3UtzOHYm3lQALkKzVD4wyO"
+            }
+          ],
+          "album": "Tommy",
+          "album_id": "6ypPEd46mjBNn9NsfpxWKT",
+          "popularity": 47,
+          "explicit": false,
+          "duration_ms": 274266,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/38piSUlzLXLqHqgrxSO4zE"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "2ITzT4yyV0zs0A9S3c2UXT",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273a790082aa893b1f841d7d545",
+          "song_title": "The Complete Knock",
+          "artist": "Blood Orange",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+              },
+              "href": "https://api.spotify.com/v1/artists/6LEeAFiJF8OuPx747e1wxR",
+              "id": "6LEeAFiJF8OuPx747e1wxR",
+              "name": "Blood Orange",
+              "type": "artist",
+              "uri": "spotify:artist:6LEeAFiJF8OuPx747e1wxR"
+            }
+          ],
+          "album": "Coastal Grooves",
+          "album_id": "5U2cyX2FRa8CjzdMpqZNJl",
+          "popularity": 61,
+          "explicit": false,
+          "duration_ms": 303533,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2ITzT4yyV0zs0A9S3c2UXT"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "6MwjuU4eG0nStUUnlGwhCr",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273406acd749b77b0c5c9ffabf5",
+          "song_title": "Shadow Lady",
+          "artist": "Portwave",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5g97nXsHBZDyY6wPKckqLc"
+              },
+              "href": "https://api.spotify.com/v1/artists/5g97nXsHBZDyY6wPKckqLc",
+              "id": "5g97nXsHBZDyY6wPKckqLc",
+              "name": "Portwave",
+              "type": "artist",
+              "uri": "spotify:artist:5g97nXsHBZDyY6wPKckqLc"
+            }
+          ],
+          "album": "Shadow Lady",
+          "album_id": "1cKogHs7vouENZkTBmzAfR",
+          "popularity": 0,
+          "explicit": false,
+          "duration_ms": 302024,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6MwjuU4eG0nStUUnlGwhCr"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "Missing required field: popularity",
+            "Track popularity too low: 0",
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "7pPOMppn0VDRfns94DFGqt",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273773c2699b3ca7b4cc436d0cb",
+          "song_title": "Shoreditch",
+          "artist": "Vrdnyn",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y"
+              },
+              "href": "https://api.spotify.com/v1/artists/6Gq2D2UOJNriDLfSPR6Y2Y",
+              "id": "6Gq2D2UOJNriDLfSPR6Y2Y",
+              "name": "Vrdnyn",
+              "type": "artist",
+              "uri": "spotify:artist:6Gq2D2UOJNriDLfSPR6Y2Y"
+            }
+          ],
+          "album": "Shoreditch",
+          "album_id": "6O7vhAIn4ADlBT8qUqgzwl",
+          "popularity": 2,
+          "explicit": false,
+          "duration_ms": 149772,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7pPOMppn0VDRfns94DFGqt"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "Track popularity too low: 2",
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "4ZrLwfr6TW9RYhenpiMrib",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b2739b9c35e81fe1cf45c9943973",
+          "song_title": "Right Here",
+          "artist": "Noah Loco",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2dM7JfORAeEa88KubhKrxA"
+              },
+              "href": "https://api.spotify.com/v1/artists/2dM7JfORAeEa88KubhKrxA",
+              "id": "2dM7JfORAeEa88KubhKrxA",
+              "name": "Noah Loco",
+              "type": "artist",
+              "uri": "spotify:artist:2dM7JfORAeEa88KubhKrxA"
+            }
+          ],
+          "album": "Right Here",
+          "album_id": "6qULeWbSDl1WLBzrWSH60o",
+          "popularity": 31,
+          "explicit": false,
+          "duration_ms": 359291,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4ZrLwfr6TW9RYhenpiMrib"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "4t0UsYzmmmZRMTWn77jiGF",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273b4bd024fb05eb2c0ddf6ea61",
+          "song_title": "Show Me Love",
+          "artist": "Robin S",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+              },
+              "href": "https://api.spotify.com/v1/artists/2WvLeseDGPX1slhmxI59G3",
+              "id": "2WvLeseDGPX1slhmxI59G3",
+              "name": "Robin S",
+              "type": "artist",
+              "uri": "spotify:artist:2WvLeseDGPX1slhmxI59G3"
+            }
+          ],
+          "album": "Show Me Love",
+          "album_id": "2xpjgSvZVYjzdlWxeAJFy8",
+          "popularity": 75,
+          "explicit": false,
+          "duration_ms": 252106,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "0ffiD4SYlHEifVwzBdPqd7",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b27385affaa226eac65cede53e59",
+          "song_title": "god's chariots",
+          "artist": "Oklou",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+              },
+              "href": "https://api.spotify.com/v1/artists/6fFcUOFcbjeIuEomuUthkw",
+              "id": "6fFcUOFcbjeIuEomuUthkw",
+              "name": "Oklou",
+              "type": "artist",
+              "uri": "spotify:artist:6fFcUOFcbjeIuEomuUthkw"
+            }
+          ],
+          "album": "Galore",
+          "album_id": "6s7TtMHRcoy8D0ipc0wmjE",
+          "popularity": 51,
+          "explicit": false,
+          "duration_ms": 183506,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0ffiD4SYlHEifVwzBdPqd7"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "0lK0ONyDapmxGzYexyaAFW",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273a8bfbe9641a7a7753022b1f8",
+          "song_title": "Fukakoryoku",
+          "artist": "Vaundy",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+              },
+              "href": "https://api.spotify.com/v1/artists/2IUl3m1H1EQ7QfNbNWvgru",
+              "id": "2IUl3m1H1EQ7QfNbNWvgru",
+              "name": "Vaundy",
+              "type": "artist",
+              "uri": "spotify:artist:2IUl3m1H1EQ7QfNbNWvgru"
+            }
+          ],
+          "album": "strobo",
+          "album_id": "4dKFBa0YCH4636ZtY4L2p7",
+          "popularity": 48,
+          "explicit": false,
+          "duration_ms": 200241,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0lK0ONyDapmxGzYexyaAFW"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "4DQx83WALp1UWDPgvTh1M4",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273354d106dcafb7e165189477e",
+          "song_title": "Headlock",
+          "artist": "Imogen Heap",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+              },
+              "href": "https://api.spotify.com/v1/artists/6Xb4ezwoAQC4516kI89nWz",
+              "id": "6Xb4ezwoAQC4516kI89nWz",
+              "name": "Imogen Heap",
+              "type": "artist",
+              "uri": "spotify:artist:6Xb4ezwoAQC4516kI89nWz"
+            }
+          ],
+          "album": "Speak For Yourself",
+          "album_id": "5bxeKufn9YmJ3WNBQpBXlx",
+          "popularity": 2,
+          "explicit": false,
+          "duration_ms": 216746,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4DQx83WALp1UWDPgvTh1M4"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "Track popularity too low: 2",
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "1NATCL1YTCQeupO1aUlqzz",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273ee3e3c7bca1637a6a1c4fd79",
+          "song_title": "Highway",
+          "artist": "Elusin",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3QpY0PpAVZmG1hTD6tu7FN"
+              },
+              "href": "https://api.spotify.com/v1/artists/3QpY0PpAVZmG1hTD6tu7FN",
+              "id": "3QpY0PpAVZmG1hTD6tu7FN",
+              "name": "Elusin",
+              "type": "artist",
+              "uri": "spotify:artist:3QpY0PpAVZmG1hTD6tu7FN"
+            }
+          ],
+          "album": "SYNFUELS",
+          "album_id": "2PNj4q0umuTFyejd8eCroJ",
+          "popularity": 59,
+          "explicit": false,
+          "duration_ms": 273912,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1NATCL1YTCQeupO1aUlqzz"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "2w4X73rSjZdptOVQlT0Tly",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273c7d2cd7d478325c6f0715043",
+          "song_title": "100 Roses",
+          "artist": "Maiah Manser",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV"
+              },
+              "href": "https://api.spotify.com/v1/artists/2SjlJe4MbPmGLwdEBuMrBV",
+              "id": "2SjlJe4MbPmGLwdEBuMrBV",
+              "name": "Maiah Manser",
+              "type": "artist",
+              "uri": "spotify:artist:2SjlJe4MbPmGLwdEBuMrBV"
+            }
+          ],
+          "album": "Fourth Wall",
+          "album_id": "02uxc9Mii3u54GyTFaUhyO",
+          "popularity": 23,
+          "explicit": false,
+          "duration_ms": 191504,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2w4X73rSjZdptOVQlT0Tly"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "0FVuyC9RP5MACjp4lgU3qZ",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273d57e3b601a8171f7e122b2ea",
+          "song_title": "I'm God",
+          "artist": "Clams Casino, Imogen Heap",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+              },
+              "href": "https://api.spotify.com/v1/artists/5vSQUyT33qxr1xAX2Tkf3A",
+              "id": "5vSQUyT33qxr1xAX2Tkf3A",
+              "name": "Clams Casino",
+              "type": "artist",
+              "uri": "spotify:artist:5vSQUyT33qxr1xAX2Tkf3A"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+              },
+              "href": "https://api.spotify.com/v1/artists/6Xb4ezwoAQC4516kI89nWz",
+              "id": "6Xb4ezwoAQC4516kI89nWz",
+              "name": "Imogen Heap",
+              "type": "artist",
+              "uri": "spotify:artist:6Xb4ezwoAQC4516kI89nWz"
+            }
+          ],
+          "album": "Instrumental Relics",
+          "album_id": "66eXLlqksAwNndmHaHWtCq",
+          "popularity": 78,
+          "explicit": false,
+          "duration_ms": 277710,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "3xKTpGCsafXzV4muM1Hpl3",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b2732d0c0ef37bf28fe4b2b35789",
+          "song_title": "Let Go",
+          "artist": "Frou Frou",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+              },
+              "href": "https://api.spotify.com/v1/artists/6MUyqmIQ35inLjch0YzIEG",
+              "id": "6MUyqmIQ35inLjch0YzIEG",
+              "name": "Frou Frou",
+              "type": "artist",
+              "uri": "spotify:artist:6MUyqmIQ35inLjch0YzIEG"
+            }
+          ],
+          "album": "Details",
+          "album_id": "7rwh9WVOm4JGKAbh1xlvPc",
+          "popularity": 59,
+          "explicit": false,
+          "duration_ms": 253893,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "1GTC0DN9LGOdP0NdvoHyX7",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273bbc2ac628f52cd6127e20bfa",
+          "song_title": "ゆめうつつ",
+          "artist": "Lamp",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+              },
+              "href": "https://api.spotify.com/v1/artists/0rFHElzeddB9ymDjgpBENX",
+              "id": "0rFHElzeddB9ymDjgpBENX",
+              "name": "Lamp",
+              "type": "artist",
+              "uri": "spotify:artist:0rFHElzeddB9ymDjgpBENX"
+            }
+          ],
+          "album": "ランプ幻想",
+          "album_id": "7b55VfUk2Vpuqnac9NDREc",
+          "popularity": 69,
+          "explicit": false,
+          "duration_ms": 315640,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "7sGUyFShKCmBb1NLyPxOC8",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b27305f5045b4ff6cb74fa963f96",
+          "song_title": "Roi - Instrumental Sped Up",
+          "artist": "Mckyyy",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1Y5AYn8VTrTR3f8HXQQQug"
+              },
+              "href": "https://api.spotify.com/v1/artists/1Y5AYn8VTrTR3f8HXQQQug",
+              "id": "1Y5AYn8VTrTR3f8HXQQQug",
+              "name": "Mckyyy",
+              "type": "artist",
+              "uri": "spotify:artist:1Y5AYn8VTrTR3f8HXQQQug"
+            }
+          ],
+          "album": "Roi",
+          "album_id": "2rYTypyWXb39mGLdWKV7jA",
+          "popularity": 56,
+          "explicit": false,
+          "duration_ms": 75531,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7sGUyFShKCmBb1NLyPxOC8"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "4CxSd4uDRGbuYMDEuOfXHr",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273a6b8ccf0f8bd9af9835bae18",
+          "song_title": "Room Service - 24 Hour Mix",
+          "artist": "PAWSA",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+              },
+              "href": "https://api.spotify.com/v1/artists/4E0HD2PMY8kQJIjlShrLUS",
+              "id": "4E0HD2PMY8kQJIjlShrLUS",
+              "name": "PAWSA",
+              "type": "artist",
+              "uri": "spotify:artist:4E0HD2PMY8kQJIjlShrLUS"
+            }
+          ],
+          "album": "Room Service (24 Hour Mix)",
+          "album_id": "4szJFSdN1sKUjJxOcqgg7L",
+          "popularity": 54,
+          "explicit": false,
+          "duration_ms": 284110,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/4CxSd4uDRGbuYMDEuOfXHr"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "0vkyBVcGTbdOW5BJirBjKx",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273df94e55b79056f080ec81e22",
+          "song_title": "Waltz No. 1, Op. 6 \"Collapse\"",
+          "artist": "Hikaru Shirosu",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a"
+              },
+              "href": "https://api.spotify.com/v1/artists/3WJfB0QSAWAO283H19gL5a",
+              "id": "3WJfB0QSAWAO283H19gL5a",
+              "name": "Hikaru Shirosu",
+              "type": "artist",
+              "uri": "spotify:artist:3WJfB0QSAWAO283H19gL5a"
+            }
+          ],
+          "album": "Waltz No. 1, Op. 6 \"Collapse\"",
+          "album_id": "2W2w7Xf38aI1b22lBnjQ4I",
+          "popularity": 60,
+          "explicit": false,
+          "duration_ms": 157647,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0vkyBVcGTbdOW5BJirBjKx"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "2bfGNzdiRa1jXZRdfssSzR",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf",
+          "song_title": "Dirty Harry (feat. Bootie Brown)",
+          "artist": "Gorillaz, Bootie Brown",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
+              "id": "3AA28KZvwAUcZuOKwyblJQ",
+              "name": "Gorillaz",
+              "type": "artist",
+              "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+              },
+              "href": "https://api.spotify.com/v1/artists/6GI3CJjT2bOnMfprCpjT1d",
+              "id": "6GI3CJjT2bOnMfprCpjT1d",
+              "name": "Bootie Brown",
+              "type": "artist",
+              "uri": "spotify:artist:6GI3CJjT2bOnMfprCpjT1d"
+            }
+          ],
+          "album": "Demon Days",
+          "album_id": "0bUTHlWbkSQysoM3VsWldT",
+          "popularity": 75,
+          "explicit": false,
+          "duration_ms": 230426,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2bfGNzdiRa1jXZRdfssSzR"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "1hwYGaUz6V4odyt0u0QlKf",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273500b4583b84cfc81f0bd0b27",
+          "song_title": "En Sang (feat. Gucci Mane)",
+          "artist": "Emil Stabil, Gucci Mane",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2toxhc2iSbFHWgy3VMnqR7"
+              },
+              "href": "https://api.spotify.com/v1/artists/2toxhc2iSbFHWgy3VMnqR7",
+              "id": "2toxhc2iSbFHWgy3VMnqR7",
+              "name": "Emil Stabil",
+              "type": "artist",
+              "uri": "spotify:artist:2toxhc2iSbFHWgy3VMnqR7"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+              },
+              "href": "https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo",
+              "id": "13y7CgLHjMVRMDqxdx0Xdo",
+              "name": "Gucci Mane",
+              "type": "artist",
+              "uri": "spotify:artist:13y7CgLHjMVRMDqxdx0Xdo"
+            }
+          ],
+          "album": "En Sang (feat. Gucci Mane)",
+          "album_id": "4HDl8FjbSFjP2q9nt4ZO1F",
+          "popularity": 41,
+          "explicit": true,
+          "duration_ms": 148241,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/1hwYGaUz6V4odyt0u0QlKf"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "7lPgKA5mLFNmGPMdb07OlM",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273e512588704373fdc8c8d7001",
+          "song_title": "Loud Places",
+          "artist": "Jamie xx, Romy",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+              },
+              "href": "https://api.spotify.com/v1/artists/7A0awCXkE1FtSU8B0qwOJQ",
+              "id": "7A0awCXkE1FtSU8B0qwOJQ",
+              "name": "Jamie xx",
+              "type": "artist",
+              "uri": "spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+              },
+              "href": "https://api.spotify.com/v1/artists/3X2DdnmoANw8Rg8luHyZQb",
+              "id": "3X2DdnmoANw8Rg8luHyZQb",
+              "name": "Romy",
+              "type": "artist",
+              "uri": "spotify:artist:3X2DdnmoANw8Rg8luHyZQb"
+            }
+          ],
+          "album": "In Colour",
+          "album_id": "04Duapg2mNlVykd895xcfZ",
+          "popularity": 55,
+          "explicit": false,
+          "duration_ms": 283066,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "3D1P3oPecqAQy2u33gAhsM",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b2733c17ef9472c134e367523eab",
+          "song_title": "Odessa",
+          "artist": "Caribou",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+              },
+              "href": "https://api.spotify.com/v1/artists/4aEnNH9PuU1HF3TsZTru54",
+              "id": "4aEnNH9PuU1HF3TsZTru54",
+              "name": "Caribou",
+              "type": "artist",
+              "uri": "spotify:artist:4aEnNH9PuU1HF3TsZTru54"
+            }
+          ],
+          "album": "Swim",
+          "album_id": "3gkW0gOyovtdcscDX6WZ6O",
+          "popularity": 51,
+          "explicit": false,
+          "duration_ms": 315585,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "7eAGNIkuwnEfdIG0X4XzaP",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b2737b912e9fa9cb60a91e19ff15",
+          "song_title": "Groovy Thang",
+          "artist": "DTAILR",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4mPRJSwzaC22uNMnj6yB0e"
+              },
+              "href": "https://api.spotify.com/v1/artists/4mPRJSwzaC22uNMnj6yB0e",
+              "id": "4mPRJSwzaC22uNMnj6yB0e",
+              "name": "DTAILR",
+              "type": "artist",
+              "uri": "spotify:artist:4mPRJSwzaC22uNMnj6yB0e"
+            }
+          ],
+          "album": "Groovy Thang",
+          "album_id": "7gIyNobISJTN1ogFCocLFC",
+          "popularity": 56,
+          "explicit": false,
+          "duration_ms": 167535,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7eAGNIkuwnEfdIG0X4XzaP"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "5boJKR3VLBW0dc5167wKDE",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b27342678f54dfd1d5afb3eea19a",
+          "song_title": "Head Over Heels",
+          "artist": "ABBA",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LcJLqbBmaGUft1e9Mm8HV",
+              "id": "0LcJLqbBmaGUft1e9Mm8HV",
+              "name": "ABBA",
+              "type": "artist",
+              "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
+            }
+          ],
+          "album": "The Visitors (Deluxe Edition)",
+          "album_id": "5GByGaws7Cw0t28kjvAOzV",
+          "popularity": 58,
+          "explicit": false,
+          "duration_ms": 228693,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/5boJKR3VLBW0dc5167wKDE"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "7L7ZElJt1MAuhuunqrIeNZ",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b27383bb696a12a93ca4ba2e5290",
+          "song_title": "At Pace",
+          "artist": "Cola",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8"
+              },
+              "href": "https://api.spotify.com/v1/artists/1KCSUZBJy1bAsIz7wUYkd8",
+              "id": "1KCSUZBJy1bAsIz7wUYkd8",
+              "name": "Cola",
+              "type": "artist",
+              "uri": "spotify:artist:1KCSUZBJy1bAsIz7wUYkd8"
+            }
+          ],
+          "album": "Deep in View",
+          "album_id": "6xCiTaBETJXjbRP68e7g0P",
+          "popularity": 40,
+          "explicit": false,
+          "duration_ms": 187706,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/7L7ZElJt1MAuhuunqrIeNZ"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "2d9UdLMMe80RNfuQcGmuIe",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273b888b6560213b05a1ecc58fc",
+          "song_title": "Hi-Fidelity",
+          "artist": "Lava La Rue, Biig Piig",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+              },
+              "href": "https://api.spotify.com/v1/artists/271bbpX3pdCi56ZJA1jQ43",
+              "id": "271bbpX3pdCi56ZJA1jQ43",
+              "name": "Lava La Rue",
+              "type": "artist",
+              "uri": "spotify:artist:271bbpX3pdCi56ZJA1jQ43"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+              },
+              "href": "https://api.spotify.com/v1/artists/4GoD5FJCgC0lbzde7ly44M",
+              "id": "4GoD5FJCgC0lbzde7ly44M",
+              "name": "Biig Piig",
+              "type": "artist",
+              "uri": "spotify:artist:4GoD5FJCgC0lbzde7ly44M"
+            }
+          ],
+          "album": "Hi-Fidelity",
+          "album_id": "0ZNelJy2iPIK2YtGHCuB3t",
+          "popularity": 49,
+          "explicit": false,
+          "duration_ms": 199088,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/2d9UdLMMe80RNfuQcGmuIe"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "6ovCisattHp1gLMGY5CJvP",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b27394851a6d946fd2f8821d78f7",
+          "song_title": "Kansas",
+          "artist": "Clever, Struggle Jennings",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1"
+              },
+              "href": "https://api.spotify.com/v1/artists/5yy76ufVriyvidNSvXlRU1",
+              "id": "5yy76ufVriyvidNSvXlRU1",
+              "name": "Clever",
+              "type": "artist",
+              "uri": "spotify:artist:5yy76ufVriyvidNSvXlRU1"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
+              },
+              "href": "https://api.spotify.com/v1/artists/7HnPsSFnXUJ8XiHt1UuQ23",
+              "id": "7HnPsSFnXUJ8XiHt1UuQ23",
+              "name": "Struggle Jennings",
+              "type": "artist",
+              "uri": "spotify:artist:7HnPsSFnXUJ8XiHt1UuQ23"
+            }
+          ],
+          "album": "Kansas",
+          "album_id": "4LiXKa4nd5JBZHzabReEGb",
+          "popularity": 39,
+          "explicit": false,
+          "duration_ms": 177309,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/6ovCisattHp1gLMGY5CJvP"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "0Gl9pXfGTU8eAnEbcka6AV",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273fcda1903d978d02fd3f5334b",
+          "song_title": "IYKYK",
+          "artist": "XG",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+              },
+              "href": "https://api.spotify.com/v1/artists/0LOK81e9H5lr61HlGGHqwA",
+              "id": "0LOK81e9H5lr61HlGGHqwA",
+              "name": "XG",
+              "type": "artist",
+              "uri": "spotify:artist:0LOK81e9H5lr61HlGGHqwA"
+            }
+          ],
+          "album": "AWE",
+          "album_id": "1eS784kXLyL0YpDz5E7AuV",
+          "popularity": 67,
+          "explicit": false,
+          "duration_ms": 180000,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0Gl9pXfGTU8eAnEbcka6AV"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        },
+        {
+          "id": "0qhCDQuqUm6wbJjAk7SlHR",
+          "song_cover_image": "https://i.scdn.co/image/ab67616d0000b273ee4ccf3ab361162077ba294b",
+          "song_title": "Rock N Roll",
+          "artist": "Avril Lavigne",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+              },
+              "href": "https://api.spotify.com/v1/artists/0p4nmQO2msCgU4IF37Wi3j",
+              "id": "0p4nmQO2msCgU4IF37Wi3j",
+              "name": "Avril Lavigne",
+              "type": "artist",
+              "uri": "spotify:artist:0p4nmQO2msCgU4IF37Wi3j"
+            }
+          ],
+          "album": "Avril Lavigne",
+          "album_id": "512J2VIGOTP50qp5MNEUyG",
+          "popularity": 0,
+          "explicit": true,
+          "duration_ms": 206880,
+          "song_clip": null,
+          "external_urls": {
+            "spotify": "https://open.spotify.com/track/0qhCDQuqUm6wbJjAk7SlHR"
+          },
+          "impressions": "",
+          "discovery": "",
+          "notes": "",
+          "validation_status": "invalid",
+          "validation_errors": [
+            "Missing required field: popularity",
+            "Track popularity too low: 0",
+            "No preview URL available"
+          ],
+          "preview_validation": "missing"
+        }
+      ],
+      "validation_errors": [],
+      "analytics": {
+        "total_tracks": 50,
+        "valid_previews": 0,
+        "invalid_previews": 50,
+        "average_popularity": 55.0625,
+        "genre_distribution": {
+          "indie": 2,
+          "brazilian pop": 1,
+          "funk pop": 1,
+          "funk carioca": 1,
+          "funk": 1,
+          "pagode baiano": 1,
+          "indie rock": 1,
+          "german indie": 1,
+          "german hip hop": 1,
+          "neo soul": 1,
+          "r&b": 1,
+          "experimental hip hop": 2,
+          "alternative hip hop": 2,
+          "jazz rap": 2,
+          "east coast hip hop": 1,
+          "electroclash": 1,
+          "alternative r&b": 2,
+          "neo-psychedelic": 1,
+          "bedroom pop": 1,
+          "norwegian pop": 1,
+          "witch house": 2,
+          "phonk": 1,
+          "drift phonk": 1,
+          "rally house": 3,
+          "house": 4,
+          "uk garage": 1,
+          "eurodance": 1,
+          "art pop": 1,
+          "hyperpop": 1,
+          "j-pop": 1,
+          "japanese indie": 2,
+          "j-rock": 1,
+          "cloud rap": 2,
+          "shibuya-kei": 1,
+          "city pop": 1,
+          "tech house": 1,
+          "japanese classical": 1,
+          "southern hip hop": 2,
+          "rap": 1,
+          "trap": 1,
+          "idm": 1,
+          "post-punk": 1,
+          "country hip hop": 1,
+          "k-pop": 1
+        },
+        "audio_feature_averages": {}
+      }
+    }
+  ],
+  "analytics": {
+    "metrics": {
+      "api_calls_playlist": 3,
+      "api_success_playlist": 1
+    },
+    "performance_summary": {
+      "avg_response_time": 2.770746946334839,
+      "success_rate": 0.3333333333333333
+    },
+    "audio_feature_analysis": {}
+  },
+  "recommendations": [
+    {
+      "user_profile": {
+        "favorite_genres": {
+          "indie": 2,
+          "brazilian pop": 1,
+          "funk pop": 1,
+          "funk carioca": 1,
+          "funk": 1,
+          "pagode baiano": 1,
+          "indie rock": 1,
+          "german indie": 1,
+          "german hip hop": 1,
+          "neo soul": 1,
+          "r&b": 1,
+          "experimental hip hop": 2,
+          "alternative hip hop": 2,
+          "jazz rap": 2,
+          "east coast hip hop": 1,
+          "electroclash": 1,
+          "alternative r&b": 2,
+          "neo-psychedelic": 1,
+          "bedroom pop": 1,
+          "norwegian pop": 1,
+          "witch house": 2,
+          "phonk": 1,
+          "drift phonk": 1,
+          "rally house": 3,
+          "house": 4,
+          "uk garage": 1,
+          "eurodance": 1,
+          "art pop": 1,
+          "hyperpop": 1,
+          "j-pop": 1,
+          "japanese indie": 2,
+          "j-rock": 1,
+          "cloud rap": 2,
+          "shibuya-kei": 1,
+          "city pop": 1,
+          "tech house": 1,
+          "japanese classical": 1,
+          "southern hip hop": 2,
+          "rap": 1,
+          "trap": 1,
+          "idm": 1,
+          "post-punk": 1,
+          "country hip hop": 1,
+          "k-pop": 1
+        },
+        "audio_preferences": {},
+        "artist_preferences": {
+          "Royel Otis": 1,
+          "The Weeknd": 1,
+          "Anitta": 1,
+          "alt-J": 1,
+          "adore": 2,
+          "Alanis Morissette": 1,
+          "Ski Aggu": 1,
+          "ABBA": 2,
+          "Erykah Badu": 1,
+          "Madlib": 1,
+          "Gorillaz": 2,
+          "MF DOOM": 1,
+          "Vandalism": 1,
+          "KAYTRANADA": 1,
+          "Charlotte Day Wilson": 1,
+          "Lily Allen": 1,
+          "Mac Miller": 1,
+          "Crumb": 1,
+          "Mk.gee": 1,
+          "Fcukers": 2,
+          "K-391": 2,
+          "Alan Walker": 1,
+          "Emelie Hollow": 1,
+          "Slow Pulp": 1,
+          "Nourished by Time": 1,
+          "Blood Orange": 1,
+          "Portwave": 1,
+          "Vrdnyn": 1,
+          "Noah Loco": 1,
+          "Robin S": 1,
+          "Oklou": 1,
+          "Vaundy": 1,
+          "Imogen Heap": 2,
+          "Elusin": 1,
+          "Maiah Manser": 1,
+          "Clams Casino": 1,
+          "Frou Frou": 1,
+          "Lamp": 1,
+          "Mckyyy": 1,
+          "PAWSA": 1,
+          "Hikaru Shirosu": 1,
+          "Bootie Brown": 1,
+          "Emil Stabil": 1,
+          "Gucci Mane": 1,
+          "Jamie xx": 1,
+          "Romy": 1,
+          "Caribou": 1,
+          "DTAILR": 1,
+          "Cola": 1,
+          "Lava La Rue": 1,
+          "Biig Piig": 1,
+          "Clever": 1,
+          "Struggle Jennings": 1,
+          "XG": 1,
+          "Avril Lavigne": 1
+        },
+        "temporal_patterns": {},
+        "listening_diversity": 1.1
+      },
+      "recommendations": [],
+      "recommendation_score": 0.0,
+      "generated_at": "2025-07-28T17:58:55.397579"
+    }
+  ],
+  "system_metrics": {
+    "cache_stats": {
+      "total_entries": 56,
+      "average_access_count": 1.1964285714285714,
+      "oldest_entry": "2025-07-28T17:58:42.548332",
+      "newest_entry": "2025-07-28T17:58:49.207217"
+    },
+    "validation_summary": {
+      "total_tracks_processed": 50,
+      "total_validation_errors": 56,
+      "preview_validation_rate": 0.0,
+      "error_rate": 1.12
+    },
+    "processing_summary": {
+      "playlists_processed": 1,
+      "recommendations_generated": 1,
+      "uptime_seconds": 13.765408039093018
+    }
+  },
+  "export_timestamp": "2025-07-28T17:58:55.399578"
+}

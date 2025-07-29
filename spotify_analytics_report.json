@@ -1,0 +1,11 @@
+{
+  "metrics": {
+    "api_calls_playlist": 3,
+    "api_success_playlist": 1
+  },
+  "performance_summary": {
+    "avg_response_time": 2.770746946334839,
+    "success_rate": 0.3333333333333333
+  },
+  "audio_feature_analysis": {}
+}
